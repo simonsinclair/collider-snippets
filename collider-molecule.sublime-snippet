@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{molecule "${1}" "${2}"}}
+]]></content>
+	<tabTrigger>mol</tabTrigger>
+	<scope>text.html</scope>
+	<description>Include a Molecule from a Collider Matter library.</description>
+</snippet>

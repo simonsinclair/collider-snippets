@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{atom "${1}" "${2}"}}
+]]></content>
+	<tabTrigger>atm</tabTrigger>
+	<scope>text.html</scope>
+	<description>Include an Atom from a Collider Matter library.</description>
+</snippet>

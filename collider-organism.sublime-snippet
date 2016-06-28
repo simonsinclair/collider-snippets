@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{organism "${1}" "${2}"}}
+]]></content>
+	<tabTrigger>org</tabTrigger>
+	<scope>text.html</scope>
+	<description>Include an Organism from a Collider Matter library.</description>
+</snippet>
